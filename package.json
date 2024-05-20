@@ -1,7 +1,7 @@
 {
   "name": "f-topsearchbar-npm",
   "private": false,
-  "version": "0.0.14",
+  "version": "0.0.16",
   "type": "module",
   "main": "dist/index.umd.js",
   "module": "dist/index.es.js",
@@ -36,6 +36,10 @@
     "f-topsearchbar-npm": "^0.0.12",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yaolei/f-topsearchbar-npm"
   },
   "devDependencies": {
     "@types/react": "^18.2.66",
