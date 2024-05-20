@@ -11,7 +11,7 @@ Currently, createPortal component is better is show the Pop modal :
 
 - Demo UI
 
-![](https://github.com/yaoleidl/f-topsearchbar-npm/raw/main/assets/demo.png) 
+![](https://github.com/yaoleidl/f-topsearchbar-npm/raw/main/src/assets/demo.png)
 
 ## Install 
 ```js
